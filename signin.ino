@@ -9,7 +9,7 @@ void loop() {
     DigiKeyboard.delay(500);
     DigiKeyboard.sendKeyStroke('\t')
     DigiKeyboard.delay(500);
-    DigiKeyboard.println("Ekadiv572)");
+    DigiKeyboard.println("password here");
     DigiKeyboard.delay(500);
     DigiKeyboard.sendKeyStroke(KEY_ENTER)
     DigiKeyboard.delay(35000);
